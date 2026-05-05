@@ -91,7 +91,7 @@ function HomePage() {
                   className="group glass rounded-xl border border-white/20 px-3 py-3 transition-all hover:shadow-elevated hover:-translate-y-1"
                 >
                   <div className="flex items-center gap-3">
-                    <div className="flex h-7 w-7 md:h-6 md:w-6 shrink-0 items-center justify-center rounded-md bg-primary/10 text-primary group-hover:bg-primary group-hover:text-white transition-colors">
+                    <div className="flex h-9 w-9 md:h-6 md:w-6 shrink-0 items-center justify-center rounded-md bg-primary/10 text-primary group-hover:bg-primary group-hover:text-white transition-colors">
                       <b.icon className="h-5 w-5" />
                     </div>
                     <div>
